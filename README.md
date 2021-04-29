@@ -46,7 +46,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+[Alexandre Martins](https://github.com/Xandy-GIT)
 
 # Licença
 
