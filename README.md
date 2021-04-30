@@ -46,7 +46,14 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Alexandre Martins](https://github.com/Xandy-GIT)
+- [Alexandre Martins](https://github.com/Xandy-GIT)
+- [Marco Aurélio Lourenço Peixoto]()
+- [Fabrício Santos Gesualdi]()
+- [Flávio Adriano Gomes da Silva]()
+- [Danylo Antunes Moreira ]()
+- [Gustavo Henrique Gonçalves de Oliveira]()
+- [Davisson Henrique de Aguiar Silva]()
+
 
 # Licença
 
