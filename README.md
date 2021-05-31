@@ -53,6 +53,8 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 - [Danylo Antunes Moreira ]()
 - [Gustavo Henrique Gonçalves de Oliveira]()
 - [Davisson Henrique de Aguiar Silva]()
+- [Thiago Henrique]()
+
 
 
 # Licença
