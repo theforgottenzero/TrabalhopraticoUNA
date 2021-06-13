@@ -1,0 +1,28 @@
+form {
+  text-align: center;
+  background-color: orangered;
+  height: 170px;
+  width: 20%;
+}
+
+body{
+   color: white
+}
+
+p {
+
+  text-align: center;
+display: inline-block;
+width: 90px;
+height: 30px;
+padding: 5px;
+border: 1px solid blue;    
+background-color: blue; 
+
+}
+
+a {
+  color: white;
+  text-decoration:transparent;
+  
+}

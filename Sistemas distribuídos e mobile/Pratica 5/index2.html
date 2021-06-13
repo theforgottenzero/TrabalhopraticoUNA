@@ -1,0 +1,33 @@
+<html>
+    <body>
+        <script>
+            class carro {
+                #chassi;
+                #placa;
+                constructor(chassi, placa){
+                    this.#chassi = chassi;
+                    this.#placa = placa;
+                }
+                set setChassi(chassi){
+                    this.#chassi = chassi;
+                }
+                set setPlaca(placa){
+                    this.#placa = placa;
+                }
+                get getChassi(){
+                    return this.#chassi;
+                }
+                get getPlaca(){
+                    return this.#placa;
+                }
+            }
+            var carros = new Array();
+            do{
+                var NovoCarro = new carro(prompt("Chassi", "chassi"), prompt("Placa", "placa"));
+                carros.push(NovoCarro)
+                opcao = confirm("Deseja informar outro veículo?");
+            }while(opcao == true);
+            carros.forEach(car => document.write(`Chassi: ${car.getChassi}<br>Placa: ${car.getPlaca}<br><br>`));
+        </script>
+    </body>
+</html>
