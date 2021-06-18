@@ -5,7 +5,7 @@
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+Demonstar através do software as opções disponíveis e adequadas através da alimentação, em consonância ao entendimento retirado da Agenda 2030 para o Desenvolvimento Sustentável.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -27,18 +27,14 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 - [x] **Cadastrar Usuário**
 - [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [ ] Colocar seus dados pessoais
+- [ ] Visualizar dietas
+- [ ] Ver receitas
+- [ ] Acompanhar evolução
 
 # Tecnologias Usadas
 
 - [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 # Contribuição
 
